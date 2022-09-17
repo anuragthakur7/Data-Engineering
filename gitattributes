@@ -1,0 +1,5 @@
+*.python linguist-detectable=true  
+*.mysql linguist-detectable=true  
+*.mongodb linguist-detectable=true  
+*.plsql linguist-detectable=true 
+*.ssms linguist-detectable=true    
